@@ -1,0 +1,3 @@
+[submodule "source/pps/lib/ib_angsana/check"]
+	path = source/pps/lib/ib_angsana/check
+	url = https://github.com/sivasankari92/sub_repo.git
